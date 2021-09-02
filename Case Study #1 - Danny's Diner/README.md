@@ -90,8 +90,11 @@ VALUES
 9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
 
+# Solutions
+You can check out my solutions [here](www.linkedin.com/in/penninah-gathu)
+
 # 8 Week SQL Challenge by Danny Ma
-You can find out everything about this challenge in the [8 Week SQL Challenge by Danny Ma](https://8weeksqlchallenge.com/case-study-1/)
+You can find out everything about this challenge in the [8 Week SQL Challenge by Danny Ma](https://github.com/MuthoniGathu/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Query%20Solutions.md)
 
 # Contact Me
 Feel free to contact me on [Linkedin](www.linkedin.com/in/penninah-gathu)
