@@ -94,7 +94,6 @@ VALUES
 You can check out my solutions [here](https://github.com/MuthoniGathu/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Query%20Solutions.md)
 
 # 8 Week SQL Challenge by Danny Ma
-You can find out everything about this challenge in the [8 Week SQL Challenge by Danny Ma](https://github.com/MuthoniGathu/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Query%20Solutions.md)
-
+You can find out everything about this challenge in the [8 Week SQL Challenge by Danny Ma](https://8weeksqlchallenge.com/case-study-1/)
 # Contact Me
 Feel free to contact me on [Linkedin](www.linkedin.com/in/penninah-gathu)
