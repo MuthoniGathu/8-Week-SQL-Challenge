@@ -19,7 +19,7 @@ Danny has shared with you 3 key datasets for this case study:
 - menu
 - members
 
-# EXAMPLE DATASET
+# DATASET
 All datasets exist within the dannys_diner database schema shown below:
 
 ```
